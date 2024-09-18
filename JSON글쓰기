@@ -1,5 +1,6 @@
 {
-  "title": "애드센스 블로그 글쓰기란?",
+  "title": "애드센스 블로그 글쓰기란?", /defualt title
+  "descrite":"title,관련된 요약된 글, 메타 디스크립트로 seo에 아주중요한 부분",
   "introduction": {
     "hook": "독자의 관심을 끌 수 있는 도입부",
     "problem_statement": "해결해야 할 문제나 궁금증 제시",
